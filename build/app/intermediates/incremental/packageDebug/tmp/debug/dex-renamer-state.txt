@@ -1,0 +1,4 @@
+#Wed Oct 05 13:00:03 IST 2022
+base.0=/Users/gaurav/Documents/branchx/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

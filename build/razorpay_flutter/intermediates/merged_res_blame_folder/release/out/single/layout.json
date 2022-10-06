@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/gaurav/Documents/branchx/build/razorpay_flutter/intermediates/merged_res/release/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/gaurav/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/gaurav/Documents/branchx/build/razorpay_flutter/intermediates/merged_res/release/layout/wallet_test_layout.xml",
+        "source": "/Users/gaurav/.gradle/caches/transforms-3/1edd10558a75ce738ad4fca961ccb9b1/transformed/jetified-play-services-wallet-18.1.3/res/layout/wallet_test_layout.xml"
+    },
+    {
+        "merged": "/Users/gaurav/Documents/branchx/build/razorpay_flutter/intermediates/merged_res/release/layout/custom_dialog.xml",
+        "source": "/Users/gaurav/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "/Users/gaurav/Documents/branchx/build/razorpay_flutter/intermediates/merged_res/release/layout/rzp_magic_base.xml",
+        "source": "/Users/gaurav/.gradle/caches/transforms-3/e050dfd600fca64180fc0eb08fc89548/transformed/jetified-checkout-1.6.19/res/layout/rzp_magic_base.xml"
+    },
+    {
+        "merged": "/Users/gaurav/Documents/branchx/build/razorpay_flutter/intermediates/merged_res/release/layout/toast_custom.xml",
+        "source": "/Users/gaurav/Documents/branchx/build/fluttertoast/intermediates/packaged_res/release/layout/toast_custom.xml"
+    },
+    {
+        "merged": "/Users/gaurav/Documents/branchx/build/razorpay_flutter/intermediates/merged_res/release/layout/notification_action_tombstone.xml",
+        "source": "/Users/gaurav/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/gaurav/Documents/branchx/build/razorpay_flutter/intermediates/merged_res/release/layout/notification_action.xml",
+        "source": "/Users/gaurav/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/gaurav/Documents/branchx/build/razorpay_flutter/intermediates/merged_res/release/layout/notification_template_icon_group.xml",
+        "source": "/Users/gaurav/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/gaurav/Documents/branchx/build/razorpay_flutter/intermediates/merged_res/release/layout/rzp_loader.xml",
+        "source": "/Users/gaurav/.gradle/caches/transforms-3/e050dfd600fca64180fc0eb08fc89548/transformed/jetified-checkout-1.6.19/res/layout/rzp_loader.xml"
+    },
+    {
+        "merged": "/Users/gaurav/Documents/branchx/build/razorpay_flutter/intermediates/merged_res/release/layout/notification_template_part_time.xml",
+        "source": "/Users/gaurav/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/layout/notification_template_part_time.xml"
+    }
+]

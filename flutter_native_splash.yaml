@@ -1,0 +1,11 @@
+flutter_native_splash:
+  # flutter pub run flutter_native_splash:create
+  # flutter pub run flutter_native_splash:remove
+
+  color: "#FAFAFA"
+  image: "assets/img/logo.png"
+
+  color_dark: "#1E1E28"
+  image_dark: "assets/img/logo.png"
+
+  fullscreen: true
